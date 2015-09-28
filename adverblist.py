@@ -1,0 +1,3 @@
+adverbList = [
+"quickly", "slowly","angrily"
+]
